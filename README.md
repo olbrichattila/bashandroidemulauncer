@@ -24,3 +24,10 @@ Select an emulator:
 [6] Resizable_Experimental_API_34
 Enter the index of the emulator to open:
 ```
+
+### Notes
+
+You may have to make your file executable:
+```
+chmod +x ./lae.sh
+```
