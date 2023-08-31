@@ -25,9 +25,16 @@ Select an emulator:
 Enter the index of the emulator to open:
 ```
 
-### Notes
+## Notes
 
-You may have to make your file executable:
+### You may have to make your file executable:
 ```
 chmod +x ./lae.sh
+```
+
+### SDK Path
+If it does not work, you may have to change the emulator path in your bash scrpit: (2 occurances)
+
+```
+~/Android/Sdk/emulator/emulator
 ```
